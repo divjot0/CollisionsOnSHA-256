@@ -1,0 +1,17 @@
+Put conditions on A8 and find 22 step collision.
+
+-----
+Extend 17 step collision to 22 step collision. [totally doable]                          Done!
+
+-----
+Put constraints over W16 and W14 and choose others such that these work out.
+
+-----
+Multi block collisions.
+
+-----
+Pick a random solution of linear equations and check if it is valid. [TRY]
+
+-----
+Tonights task :
+Create a program to look at only how to go from E7 to E8. (given E7 look at a uniformly random possible option for E8)
