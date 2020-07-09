@@ -1,0 +1,76 @@
+This is the first random number : 666932025
+total number : 0
+trial number : 0
+Conditions are isSatisfiable 
+trial number : 100
+trial number : 200
+trial number : 300
+trial number : 400
+Conditions are isSatisfiable 
+trials here : 458 and value found was 2987927909, 163291647
+total number : 1
+trial number : 0
+Conditions are isSatisfiable 
+trials here : 46 and value found was 3225150222, 1053070749
+total number : 2
+trial number : 0
+Conditions are isSatisfiable 
+Conditions are isSatisfiable 
+trials here : 25 and value found was 205800137, 1126347687
+total number : 3
+trial number : 0
+trial number : 100
+Conditions are isSatisfiable 
+trials here : 109 and value found was 44766977, 2435103061
+total number : 4
+trial number : 0
+trial number : 100
+trial number : 200
+Conditions are isSatisfiable 
+trials here : 238 and value found was 1224042463, 491335084
+total number : 5
+trial number : 0
+Conditions are isSatisfiable 
+Conditions are isSatisfiable 
+trial number : 100
+trial number : 200
+Conditions are isSatisfiable 
+trials here : 221 and value found was 3701610734, 4058941479
+total number : 6
+trial number : 0
+Conditions are isSatisfiable 
+Conditions are isSatisfiable 
+Conditions are isSatisfiable 
+Conditions are isSatisfiable 
+trial number : 100
+Conditions are isSatisfiable 
+trial number : 200
+Conditions are isSatisfiable 
+Conditions are isSatisfiable 
+trial number : 300
+Conditions are isSatisfiable 
+trials here : 387 and value found was 4057568392, 678911076
+total number : 7
+trial number : 0
+trial number : 100
+Conditions are isSatisfiable 
+Conditions are isSatisfiable 
+trials here : 186 and value found was 2464395343, 154590335
+total number : 8
+trial number : 0
+Conditions are isSatisfiable 
+trial number : 100
+trial number : 200
+trial number : 300
+Conditions are isSatisfiable 
+trials here : 383 and value found was 82043834, 3793250277
+total number : 9
+trial number : 0
+trial number : 100
+trial number : 200
+Conditions are isSatisfiable 
+trials here : 209 and value found was 20400729, 334333267
+The average number of trials were : 226.2, 120.6, 323.7
+3 : 639.3
+4 : 471.2
+5 : 436.3

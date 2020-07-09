@@ -1,0 +1,53 @@
+This is w differential:
+0& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+1& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+2& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+3& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+4& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+5& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+6& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+7& \Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp
+8& \Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp
+9& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+10& \Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp\Sp
+1\Sf& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+12& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+13& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+14& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+15& \Sa\Se\Sa\Se\Se\Se\Sa\Se\Sm\SA\Se\Se\Sa\Sf\SA\Sa\Se\Sa\SA\Sf\SA\Se\SA\SA\Sf\Sf\Sf\Sf\Sa\SA\Sa\Sa
+
+This is e differential:
+0& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+1& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+2& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+3& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+4& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+5& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+6& \Sf\Sm\Sf\Sm\Sm\Sm\Sf\Sm\Sm\Sf\Sf\Sm\Sf\Sm\Sf\Sm\Sm\Sf\Sm\Sm\Sf\Sm\Sf\Sf\Sm\Sm\Sm\Sm\Sf\Sf\Sm\Sf
+7& \SA\Sm\SA\Sm\Sm\Sm\SA\Sm\Sm\SA\Sa\Sm\SA\Sm\SA\Sm\Sm\Sa\Sm\Sm\Sa\Sm\Sa\Sa\Sm\Sm\Sm\Sm\SA\SA\Sm\SA
+8& \Sa\Se\Sa\Se\Se\Se\Sa\Sf\Sf\Sa\SA\Sf\Sa\Sf\Sa\Se\Sm\SA\Se\Sf\SA\Sf\SA\SA\Sf\Se\Se\Sm\Sa\Sa\Sf\Sa
+9& \Se\Sm\Se\Sm\Sm\Sm\Se\Sm\Sm\Se\Se\Sm\Se\Sm\Se\Sm\Sm\Se\Sm\Sm\Se\Sm\Se\Se\Sm\Sm\Sm\Sm\Se\Se\Sm\Se
+10& \Se\Sm\Se\Sm\Sm\Sm\Se\Sm\Sm\Se\Se\Sm\Se\Sm\Se\Sm\Sm\Se\Sm\Sm\Se\Sm\Se\Se\Sm\Sm\Sm\Sm\Se\Se\Sm\Se
+11& \SA\Se\SA\Se\Se\Se\SA\Sf\Sf\SA\Sa\Sf\SA\Sf\SA\Se\Sm\Sa\Se\Sf\Sa\Sf\Sa\Sa\Sf\Se\Se\Sm\SA\SA\Sf\SA
+12& \Se\Sm\Se\Sm\Sm\Sm\Se\Sm\Sm\Se\Se\Sm\Se\Sm\Se\Sm\Sm\Se\Sm\Sm\Se\Sm\Se\Se\Sm\Sm\Sm\Sm\Se\Se\Sm\Se
+13& \Sf\Sm\Sf\Sm\Sm\Sm\Sf\Sm\Sm\Sf\Sf\Sm\Sf\Sm\Sf\Sm\Sm\Sf\Sm\Sm\Sf\Sm\Sf\Sf\Sm\Sm\Sm\Sm\Sf\Sf\Sm\Sf
+14& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+15& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+
+This is a differential:
+0& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+1& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+2& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+3& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+4& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+5& \Sf\Sm\Sf\Sm\Sm\Sm\Se\Sm\Sm\Sf\Se\Sm\Sf\Sm\Sf\Sm\Sm\Sf\Sm\Sm\Sf\Sm\Se\Se\Sm\Sm\Sm\Sm\Se\Sf\Sm\Se
+6& \Se\Sm\Se\Sm\Sm\Sm\Se\Sm\Sm\Se\Se\Sm\Se\Sm\Se\Sm\Sm\Se\Sm\Sm\Se\Sm\Se\Se\Sm\Sm\Sm\Sm\Se\Se\Sm\Se
+7& \SA\Sf\SA\Sf\Sm\Se\SA\Se\Sf\SA\Sa\Sm\SA\Sm\SA\Se\Sf\Sa\Se\Se\Sa\Sf\Sa\Sa\Sf\Sm\Se\Se\SA\SA\Se\SA
+8& \Se\Sm\Se\Sm\Sm\Sm\Se\Sm\Sm\Se\Se\Sm\Se\Sm\Se\Sm\Sm\Se\Sm\Sm\Se\Sm\Se\Se\Sm\Sm\Sm\Sm\Se\Se\Sm\Se
+9& \Se\Sm\Se\Sm\Sm\Sm\Se\Sm\Sm\Se\Se\Sm\Se\Sm\Se\Sm\Sm\Se\Sm\Sm\Se\Sm\Se\Se\Sm\Sm\Sm\Sm\Se\Se\Sm\Se
+10& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+11& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+12& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+13& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+14& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm
+15& \Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm\Sm

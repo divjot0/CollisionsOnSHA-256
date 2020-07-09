@@ -1,0 +1,89 @@
+This is the first random number : 1891867775
+total number : 0
+trial number : 0
+trial number : 100
+Conditions are isSatisfiable 
+trials here : 101 and value found was 4043479524, 4282422826
+total number : 1
+trial number : 0
+trial number : 100
+Conditions are isSatisfiable 
+trials here : 189 and value found was 605945937, 1776063477
+total number : 2
+trial number : 0
+trial number : 100
+trial number : 200
+trial number : 300
+trial number : 400
+trial number : 500
+trial number : 600
+trial number : 700
+trial number : 800
+trial number : 900
+Conditions are isSatisfiable 
+trials here : 982 and value found was 83903801, 278315880
+total number : 3
+trial number : 0
+trial number : 100
+trial number : 200
+trial number : 300
+Conditions are isSatisfiable 
+trials here : 347 and value found was 3661713449, 1947769533
+total number : 4
+trial number : 0
+trial number : 100
+trial number : 200
+trial number : 300
+trial number : 400
+trial number : 500
+trial number : 600
+trial number : 700
+trial number : 800
+Conditions are isSatisfiable 
+trials here : 864 and value found was 101095464, 161960005
+total number : 5
+trial number : 0
+trial number : 100
+trial number : 200
+Conditions are isSatisfiable 
+trials here : 211 and value found was 480645312, 1828001196
+total number : 6
+trial number : 0
+trial number : 100
+Conditions are isSatisfiable 
+trials here : 106 and value found was 538717237, 3731798991
+total number : 7
+trial number : 0
+trial number : 100
+trial number : 200
+trial number : 300
+trial number : 400
+trial number : 500
+trial number : 600
+trial number : 700
+trial number : 800
+trial number : 900
+trial number : 1000
+trial number : 1100
+trial number : 1200
+trial number : 1300
+trial number : 1400
+trial number : 1500
+trial number : 1600
+Conditions are isSatisfiable 
+trials here : 1645 and value found was 3552806193, 447540663
+total number : 8
+trial number : 0
+trial number : 100
+Conditions are isSatisfiable 
+trials here : 105 and value found was 1293778544, 3046126288
+total number : 9
+trial number : 0
+trial number : 100
+trial number : 200
+trial number : 300
+trial number : 400
+trial number : 500
+Conditions are isSatisfiable 
+trials here : 589 and value found was 569395902, 740415978
+The average number of trials were : 513.9, 537.2, 568.2

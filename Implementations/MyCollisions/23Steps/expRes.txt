@@ -1,0 +1,33 @@
+Random trials to find 6th message word were 326
+step is 7 : 1
+Random trials to find 7th message word were 1
+
+Random trials to find 9th message word were 7025
+Random trials to find 10th message word were 14977
+
+
+number of times we need to reach step i:-
+
+------
+100 trials :
+This is the average for 1th word : 1
+This is the average for 2th word : 1
+This is the average for 3th word : 1
+This is the average for 4th word : 1
+This is the average for 5th word : 1
+
+This is the average for 9th word : 14040
+This is the average for 10th word : 8651
+
+This is the average for 12th word : 1
+This is the average for 13th word : 1
+This is the average for 14th word : 1
+This is the average for 15th word : 1
+
+------
+5 trials :
+This is the average for 6th word : 75
+This is the average for 7th word : 112
+This is the average for 8th word : 67782359
+
+This is the average for 11th word : 72
