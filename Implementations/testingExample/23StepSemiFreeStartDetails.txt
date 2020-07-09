@@ -1,0 +1,36 @@
+unsigned int  A = 2838881730;
+unsigned int  B = 2568923338;
+unsigned int  C = 2889909820;
+unsigned int  D = 1148053066;
+unsigned int  E = 3694445397;
+unsigned int  F = 3790682427;
+unsigned int  G = 2551179535;
+unsigned int  H = 3980067621;
+
+
+// this is the first message
+messages[0][0] = 2889472478;
+messages[0][1] = 0;
+messages[0][2] = 0;
+messages[0][3] = 0;
+messages[0][4] = 0;
+messages[0][5] = 0;
+messages[0][6] = 0;
+messages[0][7] = 0;
+messages[0][8] = 1082132116;
+messages[0][9] = 2249220097;
+messages[0][10] = 3990362550;
+messages[0][11] = 1887444886;
+messages[0][12] = 2792150022;
+messages[0][13] = 2054651538;
+messages[0][14] = 1820467171;
+messages[0][15] = 0;
+
+
+// this is the second message
+for (int i = 0; i < 16; ++i) {
+	messages[1][i] = messages[0][i];
+}
+messages[1][8] = 2249220097;
+messages[1][9] = 1082132116;
+messages[1][11] = 3054532867;
